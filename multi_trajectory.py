@@ -391,8 +391,8 @@ def run_load_parallel(nproc, psf, dcd, cutoff, hbondcutoff, hbondcutangle, sel1t
         backbone.append(atom.index)
 
     if (len(sel1.atoms) == 0 or len(sel2.atoms) == 0):
-        raise Exception
-
+	print('Line 396-The exception that WAS here should have told you that the len of the selection 1, or 2 or both, atoms is == 0')
+	#raise Exception
     sel1coords = []
     sel2coords = []
     start = time.time()
