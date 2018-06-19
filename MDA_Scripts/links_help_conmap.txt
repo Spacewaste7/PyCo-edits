@@ -1,0 +1,11 @@
+# just a couple of links that were useful when creating contact maps script,
+# the first link has a basic nonfunctioning script but the second link has
+# the corrections for it
+
+[1] https://groups.google.com/forum/#!searchin/mdnalysis-discussion/distance_array%7Csort:date/mdnalysis-discussion/KlvkdN2bjiE/35WHiQuLDAAJ
+
+[2] https://groups.google.com/forum/#!topic/mdnalysis-discussion/Qnez3w4vKM4
+
+
+
+
